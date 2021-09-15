@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pmulab1", "Pmulab1\Pmulab1.csproj", "{D63ABBDC-A222-4AC9-B8CB-F4A5545E0CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D63ABBDC-A222-4AC9-B8CB-F4A5545E0CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63ABBDC-A222-4AC9-B8CB-F4A5545E0CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63ABBDC-A222-4AC9-B8CB-F4A5545E0CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63ABBDC-A222-4AC9-B8CB-F4A5545E0CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED9510F1-EBBC-498F-9681-03031A6E9E63}
+	EndGlobalSection
+EndGlobal
